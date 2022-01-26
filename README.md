@@ -1,2 +1,10 @@
 # PHP_Day-4
-Class, Constructor, For Loop Function, Return Function, Return Sum and Average, Simple Function, Function Arguments, Function Strict DataType Arguments, Function Default Value Arguments 
+1. Class, 
+2. Constructor, 
+3. For Loop Function, 
+4. Return Function, 
+5. Return Sum and Average, 
+6. Simple Function, 
+7. Function Arguments, 
+8. Function Strict DataType Arguments, 
+9. Function Default Value Arguments 
